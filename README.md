@@ -11,7 +11,8 @@ We have a random set of dominoes and we want to match each domino to eachother E
 - The use of unordered_sets for binary trees
 - Getting the best time complexity
 - Efficiency in searches
-- Working with Files
+- Working with Text Files
+- Parsing Text File Data
 - Timing Measuremnt in C++
 - Complex Problem Solving
 
