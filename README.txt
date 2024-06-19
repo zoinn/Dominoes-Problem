@@ -1,0 +1,21 @@
+This program works with left and right turns and uncoloured dominoes.
+
+Use TimingMeasure.cpp to run my program or move main() to DominoesProblemMain.cpp
+
+Commands to use program -
+
+//All below functions take starting domino file and unsorted domino file as parameters
+
+//Displays the Data
+//
+void averageCaseFullRun(std::string starterFile,std::string unsortedFile);
+void worstCaseFullRun(std::string starterFile,std::string unsortedFile);
+void convolutedFullRun(std::string starterFile,std::string unsortedFile);
+
+//Does not display data, Used for timing without displaying
+//
+void averageCaseNoDisplayRun(std::string starterFile,std::string unsortedFile);
+void worstCaseNoDisplayRun(std::string starterFile,std::string unsortedFile);
+void convolutedNoDisplayRun(std::string starterFile,std::string unsortedFile);
+
+:D
